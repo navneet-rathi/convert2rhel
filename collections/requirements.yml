@@ -1,0 +1,10 @@
+---
+collections:
+  - name: containers.podman
+  - name: fedora.linux_system_roles
+  - name: community.general
+  - name: community.mysql
+  - name: ansible.posix
+  - name: infra.convert2rhel
+  - name: ansible.utils
+  - name: ansible.posix
